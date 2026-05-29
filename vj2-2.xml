@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<knjiznice>
+    <knjiznica>
+        <naziv>Gradska</naziv>
+        <adresa>Ilica 20, Zagreb</adresa>
+        <knjige>
+            <knjiga>
+                <naziv_knjige>Na Drini ćuprija</naziv_knjige>
+                <autor>Ivo Andrić</autor>
+                <godina_izdanja>1945</godina_izdanja>
+                <zanr>Roman</zanr>
+                <broj_primjeraka>5</broj_primjeraka>
+            </knjiga>
+            <knjiga>
+                <naziv_knjige>Zločin i kazna</naziv_knjige>
+                <autor>Fjodor Dostojevski</autor>
+                <godina_izdanja>1866</godina_izdanja>
+                <zanr>Roman</zanr>
+                <broj_primjeraka>3</broj_primjeraka>
+            </knjiga>
+        </knjige>
+    </knjiznica>
+
+    <knjiznica>
+        <naziv>Fakultetska</naziv>
+        <adresa>Vukovarska 58, Split</adresa>
+        <knjige>
+            <knjiga>
+                <naziv_knjige>C Programiranje</naziv_knjige>
+                <autor>Brian Kernighan</autor>
+                <godina_izdanja>1988</godina_izdanja>
+                <zanr>Informatika</zanr>
+                <broj_primjeraka>7</broj_primjeraka>
+            </knjiga>
+            <knjiga>
+                <naziv_knjige>Uvod u algoritme</naziv_knjige>
+                <autor>Thomas Cormen</autor>
+                <godina_izdanja>2009</godina_izdanja>
+                <zanr>Informatika</zanr>
+                <broj_primjeraka>4</broj_primjeraka>
+            </knjiga>
+            <knjiga>
+                <naziv_knjige>Hamlet</naziv_knjige>
+                <autor>William Shakespeare</autor>
+                <godina_izdanja>1603</godina_izdanja>
+                <zanr>Drama</zanr>
+                <broj_primjeraka>6</broj_primjeraka>
+            </knjiga>
+        </knjige>
+    </knjiznica>
+</knjiznice>
