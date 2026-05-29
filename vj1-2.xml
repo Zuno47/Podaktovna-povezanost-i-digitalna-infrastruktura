@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<student>
+    <ime>Ivan</ime>
+    <prezime>Horvat</prezime>
+    <jmbg>1205995330012</jmbg>
+    <datum_rodenja>1995-05-12</datum_rodenja>
+    <godina_studija>3</godina_studija>
+    
+    <kontakt>
+        <email>ivan.horvat@skola.hr</email>
+        <telefon>0912345678</telefon>
+    </kontakt>
+    
+    <kolegiji>
+        <kolegij>
+            <naziv_kolegija>Baze podataka</naziv_kolegija>
+            <ime_profesora>Marko Marić</ime_profesora>
+            <broj_ects_bodova>6</broj_ects_bodova>
+        </kolegij>
+        <kolegij>
+            <naziv_kolegija>Programiranje</naziv_kolegija>
+            <ime_profesora>Ana Horvat</ime_profesora>
+            <broj_ects_bodova>7</broj_ects_bodova>
+        </kolegij>
+        <kolegij>
+            <naziv_kolegija>Mrežne tehnologije</naziv_kolegija>
+            <ime_profesora>Ivan Perić</ime_profesora>
+            <broj_ects_bodova>5</broj_ects_bodova>
+        </kolegij>
+    </kolegiji>
+</student>
