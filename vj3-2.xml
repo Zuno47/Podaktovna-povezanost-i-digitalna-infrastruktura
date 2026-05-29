@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Narudzba>
+    <Ime>Ivan</Ime>
+    <Prezime>Horvat</Prezime>
+    
+    <MjestoStanovanja>
+        <Adresa>Ilica 20</Adresa>
+        <Grad>Zagreb</Grad>
+        <Drzava>Hrvatska</Drzava>
+    </MjestoStanovanja>
+    
+    <NaruceniArtikl>
+        <Naziv>Bežične slušalice</Naziv>
+        <Kolicina>2</Kolicina>
+        <Cijena>49.99</Cijena>
+    </NaruceniArtikl>
+</Narudzba>

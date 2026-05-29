@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Osoba spol="M">
+    <Ime>Marko</Ime>
+    <Prezime>Marić</Prezime>
+    
+    <MjestoStanovanja>
+        <Adresa>Vukovarska 58</Adresa>
+        <Grad>Split</Grad>
+        <Drzava>Hrvatska</Drzava>
+    </MjestoStanovanja>
+    
+    <Kontakt>
+        <Mobitel>0987654321</Mobitel>
+        <KucniTelefon>021345678</KucniTelefon>
+        <Email>marko.maric@email.com</Email>
+    </Kontakt>
+</Osoba>
