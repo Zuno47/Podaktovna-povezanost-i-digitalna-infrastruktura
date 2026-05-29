@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<student>
+    <ime>Ivan</ime>
+    <prezime>Horvat</prezime>
+    <jmbg>1205995330012</jmbg>
+    <datum_rodenja>1995-05-12</datum_rodenja>
+    <godina_studija>3</godina_studija>
+    <studijski_program>Informatika</studijski_program>
+    
+    <adresa>
+        <ulica>Ilica 100</ulica>
+        <grad>Zagreb</grad>
+        <postanski_broj>10000</postanski_broj>
+    </adresa>
+</student>
